@@ -9,3 +9,6 @@
 
   - O comando "go mod tidy" remove todas as dependencias que não estão sendo usadas.
   - The "go mod tidy" command removes all dependencies that are not being used.
+
+  - No golang você não pode declarar um variável e não usar.
+  - In golang you cannot declare a variable and not use it.
