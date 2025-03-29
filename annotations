@@ -1,2 +1,8 @@
  - Modulos são um conjunto de pacotes
  - Modules are a set of packages
+
+  - Se uma função começa com letra minuscula ela só vai ser visivel dentro do pacote que ela esta. 
+  - If a function starts with a lowercase letter it will only be visible within the package it is in.
+
+  - Se uma função começa com letra maiuscula ela pode ser exportada por outros pacotes.
+  - If a function starts with a capital letter it can be exported by other packages.

@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"modulo/aux"
+	"modulo/helper"
 )
 
 func main() {
 	fmt.Println("From file main")
-	aux.Write()
+	helper.Write()
+	//helper.Write2()
 }
