@@ -12,3 +12,15 @@
 
   - No golang você não pode declarar um variável e não usar.
   - In golang you cannot declare a variable and not use it.
+
+  - uint (unsygned int) não permite numeros negativos.
+  - uint (unsygned int) does not allow negative numbers.
+
+  - Aspas simples pega o número da tabela ASCII.
+  - Single quote takes number from ASCII table
+
+  - O "Erro" em Golang é um tipo.
+  - "Error" in Golang is a type.
+
+  - Valor inicial do booleano no Golang é falso
+  - Boolean initial value in Golang is false
