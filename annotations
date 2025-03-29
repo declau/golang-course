@@ -24,3 +24,6 @@
 
   - Valor inicial do booleano no Golang é falso
   - Boolean initial value in Golang is false
+
+  - Funções no golang podem ter mais de um retorno
+  - Functions in golang can have more than one return value
