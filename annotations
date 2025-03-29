@@ -6,3 +6,6 @@
 
   - Se uma função começa com letra maiuscula ela pode ser exportada por outros pacotes.
   - If a function starts with a capital letter it can be exported by other packages.
+
+  - O comando "go mod tidy" remove todas as dependencias que não estão sendo usadas.
+  - The "go mod tidy" command removes all dependencies that are not being used.
