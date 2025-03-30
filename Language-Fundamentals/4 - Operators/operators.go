@@ -21,4 +21,13 @@ func main() {
 	var var1 string = "String"
 	var2 := "String2"
 	fmt.Println(var1, var2)
+
+	// relational
+	fmt.Println(1 > 2)
+	fmt.Println(1 >= 2)
+	fmt.Println(1 == 2)
+	fmt.Println(1 < 2)
+	fmt.Println(1 <= 2)
+	fmt.Println(1 != 2)
+
 }
