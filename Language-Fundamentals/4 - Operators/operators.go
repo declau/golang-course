@@ -38,4 +38,10 @@ func main() {
 	fmt.Println(true || false)
 	fmt.Println(!true)
 
+	// Unaries
+	num := 10
+	num++
+	num += 15
+	fmt.Println(num)
+
 }
