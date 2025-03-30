@@ -17,19 +17,22 @@
   - uint (unsygned int) does not allow negative numbers.
 
   - Aspas simples pega o número da tabela ASCII.
-  - Single quote takes number from ASCII table
+  - Single quote takes number from ASCII table.
 
   - O "Erro" em Golang é um tipo.
   - "Error" in Golang is a type.
 
-  - Valor inicial do booleano no Golang é falso
-  - Boolean initial value in Golang is false
+  - Valor inicial do booleano no Golang é falso.
+  - Boolean initial value in Golang is false.
 
-  - Funções no golang podem ter mais de um retorno
-  - Functions in golang can have more than one return value
+  - Funções no golang podem ter mais de um retorno.
+  - Functions in golang can have more than one return value.
 
-  - Não podemos somar, comparar etc... variáveis de tipos diferentes em Golang
-  - We can't add, compare etc. variables of different types in Golang
+  - Não podemos somar, comparar etc... variáveis de tipos diferentes em Golang.
+  - We can't add, compare etc. variables of different types in Golang.
 
-  - Não existe operadores ternarios em Golang
-  - There are no ternary operators in Golang
+  - Não existe operadores ternarios em Golang.
+  - There are no ternary operators in Golang.
+
+  - Struct é o mais proximo que golang tem de uma classe.
+  - Struct is the closest thing Golang has to a class.
