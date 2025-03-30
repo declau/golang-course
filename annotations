@@ -30,3 +30,6 @@
 
   - Não podemos somar, comparar etc... variáveis de tipos diferentes em Golang
   - We can't add, compare etc. variables of different types in Golang
+
+  - Não existe operadores ternarios em Golang
+  - There are no ternary operators in Golang
