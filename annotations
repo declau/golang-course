@@ -36,3 +36,6 @@
 
   - Struct é o mais proximo que golang tem de uma classe.
   - Struct is the closest thing Golang has to a class.
+
+  - Golang usa algo parecido com herança mas não é.
+  - Golang uses something similar to inheritance but it is not.
