@@ -27,3 +27,6 @@
 
   - Funções no golang podem ter mais de um retorno
   - Functions in golang can have more than one return value
+
+  - Não podemos somar, comparar etc... variáveis de tipos diferentes em Golang
+  - We can't add, compare etc. variables of different types in Golang

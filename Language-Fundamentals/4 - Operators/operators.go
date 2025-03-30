@@ -11,4 +11,14 @@ func main() {
 	restDivision := 10 % 2
 
 	fmt.Println(addtion, subtraction, multiplication, division, restDivision)
+
+	var num1 int16 = 10
+	var num2 int32 = 20
+	add := num1 + int16(num2)
+	fmt.Println(add)
+
+	// Attribution
+	var var1 string = "String"
+	var2 := "String2"
+	fmt.Println(var1, var2)
 }
