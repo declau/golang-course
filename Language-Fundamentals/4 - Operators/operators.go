@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	// Arithmetic
@@ -29,5 +31,11 @@ func main() {
 	fmt.Println(1 < 2)
 	fmt.Println(1 <= 2)
 	fmt.Println(1 != 2)
+
+	// Logical
+	fmt.Println("-------------------------------------------------")
+	fmt.Println(true && true)
+	fmt.Println(true || false)
+	fmt.Println(!true)
 
 }
