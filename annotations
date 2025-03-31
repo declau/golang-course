@@ -45,3 +45,6 @@
 
   - A função append no slice adiciona um item e gera um novo Slice.
   - The append function in slice adds an item and generates a new Slice.
+
+  - Um ponteiro vai salvar um endereço de memoria onde fica alguma coisa.
+  - A pointer will save a memory address where something is located.
