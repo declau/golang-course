@@ -36,5 +36,6 @@ func main() {
 
 	array2[1] = "Alter Position"
 	fmt.Println(array2)
+	fmt.Println("---------------------------------------")
 
 }
