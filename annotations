@@ -39,3 +39,9 @@
 
   - Golang usa algo parecido com herança mas não é.
   - Golang uses something similar to inheritance but it is not.
+
+  - O Slice é mais utilizado do que o Array em aplicações em Golang por ser mais flexivel.
+  - Slice is used more than Array in Golang applications because it is more flexible.
+
+  - A função append no slice adiciona um item e gera um novo Slice.
+  - The append function in slice adds an item and generates a new Slice.
