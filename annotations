@@ -49,4 +49,8 @@
   - Um ponteiro vai salvar um endereço de memoria onde fica alguma coisa. Ou seja ponteiro é uma referencia de memoria.
   - A pointer will save a memory address where something is located. In other words, a pointer is a memory reference.
 
-  
+  - A função make vai criar um array e retornar um slice que vai pegar o tamanho criado primeiramente.
+  - The make function will create an array and return a slice that will take the size created first.
+
+  - O Golang quando ve que seu Slice vai estourar ele cria outro Array dobrando o tamanho.
+  - When Golang sees that its Slice is going to explode, it creates another Array doubling the size.
