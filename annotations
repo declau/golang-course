@@ -54,3 +54,6 @@
 
   - O Golang quando ve que seu Slice vai estourar ele cria outro Array dobrando o tamanho.
   - When Golang sees that its Slice is going to explode, it creates another Array doubling the size.
+
+  - O pacote Gorilla Mux faz todo gerenciamento de funções.
+  - The Gorilla Mux package does all the function management.
