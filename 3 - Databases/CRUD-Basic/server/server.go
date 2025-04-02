@@ -55,5 +55,8 @@ func CreatUser(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	// STATUS CODES
+
+	w.WriteHeader(http.StatusCreated)
 	w.Write([]byte(fmt.Sprintf("insert user ok! ID: %d", idInsert)))
 }
