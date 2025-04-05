@@ -57,3 +57,6 @@
 
   - O pacote Gorilla Mux faz todo gerenciamento de funções.
   - The Gorilla Mux package does all the function management.
+
+  - Na função variática o parametro variático tem que ser sempre o ultimo.
+  - In the variatic function the variatic parameter must always be the last one.
