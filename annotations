@@ -63,3 +63,6 @@
 
   - Funções recursivas sempre tem um condição de parada.
   - Recursive functions always have a stopping condition.
+
+  - As funções recursivas não são utilizadas para casos que tem muitas execuções.
+  - Recursive functions are not used for cases that have many executions.
