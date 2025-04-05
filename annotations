@@ -69,3 +69,6 @@
 
   - A clausula Defer básicamente ela adia a execução de um determinado bloco de código.
   - The Defer clause basically postpones the execution of a certain block of code.
+
+  - Defer adia a função até o ultimo momento possivel.
+  - Defer postpones the function until the last possible moment.
