@@ -60,3 +60,6 @@
 
   - Na função variática o parametro variático tem que ser sempre o ultimo.
   - In the variatic function the variatic parameter must always be the last one.
+
+  - Funções recursivas sempre tem um condição de parada.
+  - Recursive functions always have a stopping condition.
