@@ -66,3 +66,6 @@
 
   - As funções recursivas não são utilizadas para casos que tem muitas execuções.
   - Recursive functions are not used for cases that have many executions.
+
+  - A clausula Defer básicamente ela adia a execução de um determinado bloco de código.
+  - The Defer clause basically postpones the execution of a certain block of code.
