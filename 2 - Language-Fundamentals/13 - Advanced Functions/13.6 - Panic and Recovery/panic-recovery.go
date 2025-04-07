@@ -1,5 +1,20 @@
 package main
 
-func main() {
+import "fmt"
 
+func studentIsApproved(n1, n2 float64) bool {
+	media := (n1 + n2) / 2
+
+	if media > 6 {
+		return true
+	} else if media < 6 {
+		return false
+	}
+
+	panic("THE AVERAGE IS EXACTLY 6")
+}
+
+func main() {
+	fmt.Println(studentIsApproved(6, 7))
+	fmt.Println("Post execution!")
 }
