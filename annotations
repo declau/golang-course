@@ -72,3 +72,6 @@
 
   - Defer adia a função até o ultimo momento possivel.
   - Defer postpones the function until the last possible moment.
+
+  - A função Panic vai interronper o fluxo normal do seu programa.
+  - The Panic function will interrupt the normal flow of your program.
