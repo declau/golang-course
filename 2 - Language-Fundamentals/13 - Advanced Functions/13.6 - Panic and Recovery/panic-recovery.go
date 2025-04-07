@@ -4,6 +4,10 @@ import "fmt"
 
 func recoverExecution() {
 	fmt.Println("Try to Recovery the execution!")
+
+	if r := recover(); r != nil {
+		fmt.Println("Execution Recovery!")
+	}
 }
 
 func studentIsApproved(n1, n2 float64) bool {
@@ -20,6 +24,6 @@ func studentIsApproved(n1, n2 float64) bool {
 }
 
 func main() {
-	fmt.Println(studentIsApproved(6, 7))
+	fmt.Println(studentIsApproved(6, 6))
 	fmt.Println("Post execution!")
 }
