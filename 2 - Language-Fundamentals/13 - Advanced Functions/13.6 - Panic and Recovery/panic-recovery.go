@@ -2,7 +2,12 @@ package main
 
 import "fmt"
 
+func recoverExecution() {
+	fmt.Println("Try to Recovery the execution!")
+}
+
 func studentIsApproved(n1, n2 float64) bool {
+	defer recoverExecution()
 	media := (n1 + n2) / 2
 
 	if media > 6 {
