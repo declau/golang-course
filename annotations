@@ -75,3 +75,6 @@
 
   - A função Panic vai interronper o fluxo normal do seu programa.
   - The Panic function will interrupt the normal flow of your program.
+
+  - Closures são funções que capturam variáveis do seu escopo externo, permitindo comportamentos como contadores e encapsulamento.
+  - Closures are functions that capture variables from their outer scope, allowing behaviors such as counters and encapsulation.
