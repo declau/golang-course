@@ -78,3 +78,7 @@
 
   - Closures são funções que capturam variáveis do seu escopo externo, permitindo comportamentos como contadores e encapsulamento.
   - Closures are functions that capture variables from their outer scope, allowing behaviors such as counters and encapsulation.
+
+  - A Função Init executa em primeiro lugar sendo possiver ter uma por arquivo.
+  - The Init Function executes first and it is possible to have one per file.
+  
