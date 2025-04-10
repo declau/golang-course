@@ -81,4 +81,7 @@
 
   - A Função Init executa em primeiro lugar sendo possiver ter uma por arquivo.
   - The Init Function executes first and it is possible to have one per file.
-  
+
+  - Adiferença principal de um metodo para um função é que o metodo esta obrigatoriamente associado a alguma coisa como por exemplo structs
+    interface.
+  - The main difference between a method and a function is that the method is necessarily associated with something such as structs, interface.
