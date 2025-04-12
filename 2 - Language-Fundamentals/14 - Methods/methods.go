@@ -15,6 +15,10 @@ func (u user) majority() bool {
 	return u.age >= 18
 }
 
+func (u *user) birthday() {
+	u.age++
+}
+
 func main() {
 
 	user1 := user{"User 1", 33}
@@ -26,5 +30,8 @@ func main() {
 
 	majority := user2.majority()
 	fmt.Println(majority)
+
+	user2.birthday()
+	fmt.Println(user2.age)
 
 }
